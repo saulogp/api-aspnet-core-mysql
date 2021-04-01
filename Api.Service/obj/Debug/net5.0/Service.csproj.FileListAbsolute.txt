@@ -1,0 +1,17 @@
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Service.deps.json
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Service.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/ref/Service.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Service.pdb
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Data.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Domain.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Domain.pdb
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/bin/Debug/net5.0/Data.pdb
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.csprojAssemblyReference.cache
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.GeneratedMSBuildEditorConfig.editorconfig
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.AssemblyInfoInputs.cache
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.AssemblyInfo.cs
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.csproj.CoreCompileInputs.cache
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.csproj.CopyComplete
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/ref/Service.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Service/obj/Debug/net5.0/Service.pdb

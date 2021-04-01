@@ -1,0 +1,11 @@
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/bin/Debug/net5.0/Domain.deps.json
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/bin/Debug/net5.0/Domain.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/bin/Debug/net5.0/Domain.pdb
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.pdb
