@@ -9,3 +9,4 @@
 /home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.dll
 /home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/ref/Domain.dll
 /home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.pdb
+/home/saullinux/Documents/Udemy/prjApi/Api.Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
